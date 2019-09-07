@@ -1,0 +1,9 @@
+C:\Users\phuzE\Dropbox\Programming\ShowListCreator\ShowListCreator\bin\Debug\ShowListCreator.exe.config
+C:\Users\phuzE\Dropbox\Programming\ShowListCreator\ShowListCreator\bin\Debug\ShowListCreator.exe
+C:\Users\phuzE\Dropbox\Programming\ShowListCreator\ShowListCreator\bin\Debug\ShowListCreator.pdb
+C:\Users\phuzE\Dropbox\Programming\ShowListCreator\ShowListCreator\obj\Debug\ShowListCreator.Properties.Resources.resources
+C:\Users\phuzE\Dropbox\Programming\ShowListCreator\ShowListCreator\obj\Debug\ShowListCreator.csproj.GenerateResource.Cache
+C:\Users\phuzE\Dropbox\Programming\ShowListCreator\ShowListCreator\obj\Debug\ShowListCreator.csproj.CoreCompileInputs.cache
+C:\Users\phuzE\Dropbox\Programming\ShowListCreator\ShowListCreator\obj\Debug\ShowListCreator.exe
+C:\Users\phuzE\Dropbox\Programming\ShowListCreator\ShowListCreator\obj\Debug\ShowListCreator.pdb
+C:\Users\phuze\Dropbox\Programming\ShowListCreator\ShowListCreator\obj\Debug\ShowListCreator.csprojAssemblyReference.cache
